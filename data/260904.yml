@@ -1,0 +1,58 @@
+about:
+  description: Flexible, reusable and concise configuration for Kubernetes
+  license: Apache-2.0
+  homepage: https://tanka.dev
+  head: 656b164
+  archived: false
+  latestVersion: v0.39.0
+  collectedAt: 2026-09-04T04:41:37Z
+timeline:
+  created: 2019-07-17
+  lastCommit: 2026-09-04
+  lastRelease: 2026-08-27
+popularity:
+  star: 2682
+  watcher: 152
+  fork: 191
+  release: 75
+  contributor: 1454
+  pullRequest: 261
+  issue: 393
+language:
+  Go: 454745
+  Dockerfile: 2468
+  Makefile: 1384
+totalLine: 458597
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 21
+    openPR: 8
+    closedIssue: 0
+    openIssue: 0
+    commit: 27
+  last90d:
+    since: 2026-06-06
+    release: 5
+    mergedPR: 130
+    openPR: 15
+    closedIssue: 1
+    openIssue: 2
+    commit: 146
+  last180d:
+    since: 2026-03-08
+    release: 9
+    mergedPR: 262
+    openPR: 17
+    closedIssue: 2
+    openIssue: 2
+    commit: 262
+  last360d:
+    since: 2025-09-09
+    release: 14
+    mergedPR: 481
+    openPR: 19
+    closedIssue: 8
+    openIssue: 6
+    commit: 474
