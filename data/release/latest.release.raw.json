@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21946528,
       "digest": "sha256:2163b110602665eb0ca86be53521a47d07f834c000177ea3dbfae30296c8925a",
-      "download_count": 5053,
+      "download_count": 5068,
       "created_at": "2026-08-27T11:17:46Z",
       "updated_at": "2026-08-27T11:17:47Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.0/tk-linux-amd64"

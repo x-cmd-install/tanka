@@ -5,7 +5,7 @@ about:
   head: 656b164
   archived: false
   latestVersion: "v0.39.0"
-  collectedAt: 2026-09-08T02:11:48Z
+  collectedAt: 2026-09-08T04:52:33Z
 timeline:
   created: 2019-07-17
   lastCommit: 2026-09-04
@@ -81,7 +81,7 @@ total:
   commit: 1554
 ---
 path: /home/runner/.x-repo/github.com/grafana/tanka
-collectedAt: 2026-09-08T02:12:06Z
+collectedAt: 2026-09-08T04:52:51Z
 loc:
   Go:
     code: 27907
