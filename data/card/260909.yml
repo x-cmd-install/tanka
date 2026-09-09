@@ -2,12 +2,12 @@ about:
   description: "Flexible, reusable and concise configuration for Kubernetes"
   license: Apache-2.0
   homepage: https://tanka.dev
-  head: c4a243d
+  head: b8d321a
   archived: false
   latestVersion: "v0.39.0"
   latestRelease: "v0.39.0"
   latestPrerelease: "v0.18.0"
-  collectedAt: 2026-09-09T04:59:30Z
+  collectedAt: 2026-09-09T19:11:00Z
 timeline:
   created: 2019-07-17
   lastCommit: 2026-09-09
@@ -31,61 +31,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 23
-    openPR: 8
+    mergedPR: 24
+    openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 28
+    commit: 29
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 49
-    openPR: 11
+    mergedPR: 50
+    openPR: 10
     closedIssue: 0
     openIssue: 1
-    commit: 59
+    commit: 60
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 132
-    openPR: 15
+    mergedPR: 133
+    openPR: 14
     closedIssue: 1
     openIssue: 1
-    commit: 138
+    commit: 139
   last180d:
     since: 2026-03-13
     release: 9
-    mergedPR: 250
-    openPR: 17
+    mergedPR: 251
+    openPR: 16
     closedIssue: 2
     openIssue: 2
-    commit: 249
+    commit: 250
   last360d:
     since: 2025-09-14
     release: 13
-    mergedPR: 476
-    openPR: 19
+    mergedPR: 477
+    openPR: 18
     closedIssue: 8
     openIssue: 6
-    commit: 468
+    commit: 469
   last720d:
     since: 2024-09-19
     release: 28
-    mergedPR: 899
-    openPR: 22
+    mergedPR: 900
+    openPR: 21
     closedIssue: 18
     openIssue: 14
-    commit: 904
+    commit: 905
 total:
   release: 75
-  mergedPR: 1516
-  openPR: 25
+  mergedPR: 1517
+  openPR: 24
   closedIssue: 355
   openIssue: 38
-  commit: 1556
+  commit: 1557
 ---
 path: /home/runner/.x-repo/github.com/grafana/tanka
-collectedAt: 2026-09-09T04:59:51Z
+collectedAt: 2026-09-09T19:11:23Z
 loc:
   Go:
     code: 27907
