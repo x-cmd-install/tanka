@@ -1,24 +1,75 @@
 # tanka
 
+[中文版本](./README.cn.md)
+
 Flexible, reusable and concise configuration for Kubernetes
 
-- **Upstream**: <https://github.com/grafana/tanka>
-- **Homepage**: <https://tanka.dev>
-- **Latest release**: `v0.39.0` (2026-08-27)
-- **Last commit**: 2026-09-09
-- **License**: Apache-2.0
-- **Stars**: 2685 · **Forks**: 191 · **Open issues**: 393 · **Contributors**: 183
+![tanka](https://repo.x-cmd.io/tanka.svg)
 
-## Installation
+## Install
 
 ```sh
 x install tanka
 ```
 
-See <https://x-cmd.com/install/tanka> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/grafana/tanka>
+- **Homepage**: <https://tanka.dev>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:11:28Z._
+- **Latest**: `v0.39.0` (2026-08-27)
+- **Last commit**: 2026-09-09
+- **Assets in release**: 6
+- **Published**: 2026-08-27T11:15:30Z
+
+## Popularity
+
+- **Stars**: 2,685 · **Forks**: 191 · **Open issues**: 393 · **Contributors**: 183
+
+## Totals (cumulative)
+
+- **Releases**: 75 · **Merged PRs**: 1517 · **Open PRs**: 24 · **Closed issues**: 355 · **Open issues**: 38 · **Commits**: 1557
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 24 | 7 | 0 | 0 | 29 |
+| 90d | 2026-06-12 | 5 | 130 | 14 | 1 | 1 | 139 |
+| 360d | 2025-09-15 | 13 | 473 | 18 | 8 | 6 | 469 |
+
+## Code size
+
+Total: **33,783** lines of code across **275** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 27,907 | 4,039 | 5,744 | 147 |
+| Yaml | 4,437 | 1 | 1,186 | 4 |
+| Jsonnet | 697 | 20 | 27 | 96 |
+| Json | 248 | 0 | 0 | 24 |
+| TypeScript | 243 | 19 | 13 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
+## Improve this data
+
+Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tanka` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tanka.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:52:39Z._
