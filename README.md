@@ -23,7 +23,17 @@ x install tanka
 - **Latest**: `v0.39.0` (2026-08-27)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 6
-- **Published**: 2026-08-27T11:15:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.39.0/tk-darwin-amd64) | 21.9 MiB | `native/darwin/x64` |
+| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.39.0/tk-darwin-arm64) | 20.6 MiB | `native/darwin/arm64` |
+| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.39.0/tk-linux-amd64) | 20.9 MiB | `native/linux/x64` |
+| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.39.0/tk-linux-arm) | 19.1 MiB | `native/linux/arm` |
+| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.39.0/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
+| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.39.0/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +78,8 @@ Lowest-scoring checks:
 Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tanka` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tanka.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tanka.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:52:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:44:16Z._
