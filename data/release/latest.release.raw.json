@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22980160,
       "digest": "sha256:5803d3805b4def3df7f4ca10613f0ec6d31a1409e2dae2d713c9b0225210324a",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-08-27T11:17:48Z",
       "updated_at": "2026-08-27T11:17:50Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.0/tk-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21631922,
       "digest": "sha256:95d618215de5bc5c3418478aa9c6db2e408c0aae67a6be3a777fc79146fcda15",
-      "download_count": 49,
+      "download_count": 53,
       "created_at": "2026-08-27T11:17:47Z",
       "updated_at": "2026-08-27T11:17:48Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.0/tk-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21946528,
       "digest": "sha256:2163b110602665eb0ca86be53521a47d07f834c000177ea3dbfae30296c8925a",
-      "download_count": 7166,
+      "download_count": 7728,
       "created_at": "2026-08-27T11:17:46Z",
       "updated_at": "2026-08-27T11:17:47Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.0/tk-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20512928,
       "digest": "sha256:30c7d9ebfbd855b9d7db7dfc49e8a2edd0b534f611c868870460ba8521b0d67d",
-      "download_count": 238,
+      "download_count": 242,
       "created_at": "2026-08-27T11:17:43Z",
       "updated_at": "2026-08-27T11:17:44Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.0/tk-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22734848,
       "digest": "sha256:f1679a6e2a222eb866ed1477e6aa09954184011f23b1f937c92842e2dfda3f9f",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-08-27T11:17:41Z",
       "updated_at": "2026-08-27T11:17:43Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.0/tk-windows-amd64.exe"
