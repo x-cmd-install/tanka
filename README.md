@@ -4,7 +4,7 @@
 
 Flexible, reusable and concise configuration for Kubernetes
 
-![tanka](https://repo.x-cmd.io/tanka.svg)
+[![x-cmd/install — tanka Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tanka.svg)](https://x-cmd.com/install/tanka)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install tanka
 
 ## Code insight
 
-Total: **33,008** lines of code across **275** files in the top 5 languages.
+Total: **33,003** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 28,012 | 4,057 | 5,767 | 147 |
-| Yaml | 3,556 | 1 | 984 | 4 |
+| Yaml | 3,551 | 1 | 982 | 4 |
 | Jsonnet | 697 | 20 | 27 | 96 |
 | Json | 248 | 0 | 0 | 24 |
 | TypeScript | 243 | 19 | 13 | 4 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.39.1` (2026-09-14)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1542 · **Open PRs**: 18 · **Closed issues**: 355 · **Open issues**: 39 · **Commits**: 1582
+- **Releases**: 76 · **Merged PRs**: 1546 · **Open PRs**: 22 · **Closed issues**: 355 · **Open issues**: 39 · **Commits**: 1586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 39 | 7 | 0 | 1 | 47 |
-| last60d | 2026-07-20 | 2 | 61 | 8 | 0 | 2 | 66 |
-| 90d | 2026-06-20 | 5 | 136 | 12 | 1 | 2 | 145 |
-| last180d | 2026-03-22 | 10 | 260 | 13 | 1 | 3 | 265 |
-| 360d | 2025-09-23 | 14 | 487 | 15 | 8 | 7 | 486 |
-| last720d | 2024-09-28 | 29 | 921 | 18 | 17 | 15 | 925 |
+| 30d | 2026-08-21 | 2 | 39 | 11 | 0 | 1 | 51 |
+| last60d | 2026-07-22 | 2 | 63 | 12 | 0 | 1 | 70 |
+| 90d | 2026-06-22 | 5 | 140 | 16 | 1 | 2 | 149 |
+| last180d | 2026-03-24 | 10 | 262 | 17 | 1 | 3 | 269 |
+| 360d | 2025-09-25 | 14 | 487 | 19 | 8 | 7 | 490 |
+| last720d | 2024-09-30 | 29 | 919 | 22 | 17 | 15 | 929 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:02:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:09:06Z._
