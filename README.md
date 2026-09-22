@@ -14,12 +14,12 @@ x install tanka
 
 ## Code insight
 
-Total: **33,003** lines of code across **275** files in the top 5 languages.
+Total: **33,007** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 28,012 | 4,057 | 5,767 | 147 |
-| Yaml | 3,551 | 1 | 982 | 4 |
+| Yaml | 3,555 | 1 | 984 | 4 |
 | Jsonnet | 697 | 20 | 27 | 96 |
 | Json | 248 | 0 | 0 | 24 |
 | TypeScript | 243 | 19 | 13 | 4 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.39.1` (2026-09-14)
-- **Last commit**: 2026-09-19
+- **Latest**: `v0.39.2` (2026-09-21)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,29 +52,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1546 · **Open PRs**: 23 · **Closed issues**: 355 · **Open issues**: 39 · **Commits**: 1586
+- **Releases**: 77 · **Merged PRs**: 1555 · **Open PRs**: 20 · **Closed issues**: 355 · **Open issues**: 39 · **Commits**: 1595
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 39 | 12 | 0 | 1 | 33 |
-| last60d | 2026-07-23 | 2 | 61 | 13 | 0 | 1 | 60 |
-| 90d | 2026-06-23 | 5 | 139 | 17 | 1 | 2 | 147 |
-| last180d | 2026-03-25 | 10 | 262 | 18 | 1 | 3 | 258 |
-| 360d | 2025-09-26 | 14 | 486 | 20 | 8 | 7 | 481 |
-| last720d | 2024-10-01 | 29 | 919 | 23 | 17 | 15 | 924 |
+| 30d | 2026-08-23 | 3 | 48 | 9 | 0 | 1 | 42 |
+| last60d | 2026-07-24 | 3 | 68 | 10 | 0 | 1 | 69 |
+| 90d | 2026-06-24 | 5 | 148 | 14 | 1 | 2 | 156 |
+| last180d | 2026-03-26 | 11 | 269 | 15 | 1 | 3 | 267 |
+| 360d | 2025-09-27 | 15 | 494 | 17 | 8 | 7 | 490 |
+| last720d | 2024-10-02 | 29 | 928 | 20 | 17 | 15 | 931 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.39.1/tk-darwin-amd64) | 21.9 MiB | `native/darwin/x64` |
-| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.39.1/tk-darwin-arm64) | 20.6 MiB | `native/darwin/arm64` |
-| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.39.1/tk-linux-amd64) | 20.9 MiB | `native/linux/x64` |
-| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.39.1/tk-linux-arm) | 19.1 MiB | `native/linux/arm` |
-| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.39.1/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
-| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.39.1/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
+| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.39.2/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
+| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.39.2/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
+| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.39.2/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
+| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.39.2/tk-linux-arm) | 19.2 MiB | `native/linux/arm` |
+| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.39.2/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
+| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.39.2/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:14:00Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:02Z._
