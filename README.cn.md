@@ -4,7 +4,7 @@
 
 Flexible, reusable and concise configuration for Kubernetes
 
-[![x-cmd/install — tanka Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tanka.svg?lang=zh)](https://x-cmd.com/install/tanka)
+[![x-cmd/install — tanka Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tanka.svg?lang=zh)](https://x-cmd.com/install/tanka)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install tanka
 
 ## 流行度
 
-- **Star**: 2,686 · **Fork**: 192 · **开放 issue**: 394 · **贡献者**: 183
+- **Star**: 2,687 · **Fork**: 193 · **开放 issue**: 394 · **贡献者**: 183
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 1555 · **开放 PR**: 20 · **已关闭 issue**: 355 · **开放 issue**: 39 · **提交数**: 1595
+- **发布数**: 77 · **已合并 PR**: 1557 · **开放 PR**: 21 · **已关闭 issue**: 355 · **开放 issue**: 39 · **提交数**: 1597
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 48 | 9 | 0 | 1 | 42 |
-| last60d | 2026-07-24 | 3 | 68 | 10 | 0 | 1 | 69 |
-| 90d | 2026-06-24 | 5 | 148 | 14 | 1 | 2 | 156 |
-| last180d | 2026-03-26 | 11 | 269 | 15 | 1 | 3 | 267 |
-| 360d | 2025-09-27 | 15 | 494 | 17 | 8 | 7 | 490 |
-| last720d | 2024-10-02 | 29 | 928 | 20 | 17 | 15 | 931 |
+| 30d | 2026-08-24 | 3 | 44 | 10 | 0 | 1 | 44 |
+| last60d | 2026-07-25 | 3 | 69 | 11 | 0 | 1 | 71 |
+| 90d | 2026-06-25 | 5 | 150 | 15 | 1 | 2 | 158 |
+| last180d | 2026-03-27 | 11 | 267 | 16 | 1 | 3 | 269 |
+| 360d | 2025-09-28 | 15 | 496 | 18 | 8 | 7 | 492 |
+| last720d | 2024-10-03 | 29 | 930 | 21 | 17 | 15 | 933 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ tanka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:12:02Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:14:43Z._

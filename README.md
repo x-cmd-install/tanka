@@ -4,7 +4,7 @@
 
 Flexible, reusable and concise configuration for Kubernetes
 
-[![x-cmd/install — tanka Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tanka.svg)](https://x-cmd.com/install/tanka)
+[![x-cmd/install — tanka Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tanka.svg)](https://x-cmd.com/install/tanka)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,686 · **Forks**: 192 · **Open issues**: 394 · **Contributors**: 183
+- **Stars**: 2,687 · **Forks**: 193 · **Open issues**: 394 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1555 · **Open PRs**: 20 · **Closed issues**: 355 · **Open issues**: 39 · **Commits**: 1595
+- **Releases**: 77 · **Merged PRs**: 1557 · **Open PRs**: 21 · **Closed issues**: 355 · **Open issues**: 39 · **Commits**: 1597
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 48 | 9 | 0 | 1 | 42 |
-| last60d | 2026-07-24 | 3 | 68 | 10 | 0 | 1 | 69 |
-| 90d | 2026-06-24 | 5 | 148 | 14 | 1 | 2 | 156 |
-| last180d | 2026-03-26 | 11 | 269 | 15 | 1 | 3 | 267 |
-| 360d | 2025-09-27 | 15 | 494 | 17 | 8 | 7 | 490 |
-| last720d | 2024-10-02 | 29 | 928 | 20 | 17 | 15 | 931 |
+| 30d | 2026-08-24 | 3 | 44 | 10 | 0 | 1 | 44 |
+| last60d | 2026-07-25 | 3 | 69 | 11 | 0 | 1 | 71 |
+| 90d | 2026-06-25 | 5 | 150 | 15 | 1 | 2 | 158 |
+| last180d | 2026-03-27 | 11 | 267 | 16 | 1 | 3 | 269 |
+| 360d | 2025-09-28 | 15 | 496 | 18 | 8 | 7 | 492 |
+| last720d | 2024-10-03 | 29 | 930 | 21 | 17 | 15 | 933 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:14:43Z._
