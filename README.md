@@ -14,12 +14,12 @@ x install tanka
 
 ## Code insight
 
-Total: **33,007** lines of code across **275** files in the top 5 languages.
+Total: **33,021** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 28,012 | 4,057 | 5,767 | 147 |
-| Yaml | 3,555 | 1 | 984 | 4 |
+| Yaml | 3,569 | 1 | 988 | 4 |
 | Jsonnet | 697 | 20 | 27 | 96 |
 | Json | 248 | 0 | 0 | 24 |
 | TypeScript | 243 | 19 | 13 | 4 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.39.2` (2026-09-21)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1560 · **Open PRs**: 22 · **Closed issues**: 355 · **Open issues**: 40 · **Commits**: 1600
+- **Releases**: 77 · **Merged PRs**: 1562 · **Open PRs**: 23 · **Closed issues**: 355 · **Open issues**: 40 · **Commits**: 1602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 3 | 42 | 10 | 0 | 2 | 47 |
-| last60d | 2026-07-27 | 3 | 67 | 12 | 0 | 2 | 74 |
-| 90d | 2026-06-27 | 5 | 151 | 15 | 1 | 3 | 161 |
-| last180d | 2026-03-29 | 11 | 270 | 17 | 1 | 4 | 272 |
-| 360d | 2025-09-30 | 15 | 495 | 19 | 8 | 8 | 495 |
-| last720d | 2024-10-05 | 29 | 931 | 22 | 17 | 16 | 935 |
+| 30d | 2026-08-27 | 3 | 41 | 11 | 0 | 2 | 49 |
+| last60d | 2026-07-28 | 3 | 69 | 13 | 0 | 2 | 76 |
+| 90d | 2026-06-28 | 5 | 153 | 16 | 1 | 3 | 163 |
+| last180d | 2026-03-30 | 11 | 270 | 18 | 1 | 4 | 274 |
+| 360d | 2025-10-01 | 15 | 496 | 20 | 8 | 8 | 497 |
+| last720d | 2024-10-06 | 29 | 933 | 23 | 17 | 16 | 937 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:07:23Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:07:32Z._
