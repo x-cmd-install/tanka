@@ -14,12 +14,12 @@ x install tanka
 
 ## Code insight
 
-Total: **33,021** lines of code across **275** files in the top 5 languages.
+Total: **33,025** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 28,012 | 4,057 | 5,767 | 147 |
-| Yaml | 3,569 | 1 | 988 | 4 |
+| Yaml | 3,573 | 1 | 991 | 4 |
 | Jsonnet | 697 | 20 | 27 | 96 |
 | Json | 248 | 0 | 0 | 24 |
 | TypeScript | 243 | 19 | 13 | 4 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1566 · **Open PRs**: 23 · **Closed issues**: 355 · **Open issues**: 40 · **Commits**: 1606
+- **Releases**: 77 · **Merged PRs**: 1567 · **Open PRs**: 23 · **Closed issues**: 355 · **Open issues**: 40 · **Commits**: 1607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 45 | 11 | 0 | 2 | 53 |
-| last60d | 2026-07-29 | 3 | 72 | 13 | 0 | 2 | 79 |
-| 90d | 2026-06-29 | 5 | 157 | 16 | 1 | 3 | 132 |
-| last180d | 2026-03-31 | 11 | 274 | 18 | 1 | 4 | 266 |
-| 360d | 2025-10-02 | 15 | 498 | 20 | 8 | 8 | 488 |
-| last720d | 2024-10-07 | 29 | 927 | 23 | 17 | 16 | 941 |
+| 30d | 2026-08-29 | 2 | 46 | 11 | 0 | 2 | 54 |
+| last60d | 2026-07-30 | 3 | 73 | 13 | 0 | 2 | 80 |
+| 90d | 2026-06-30 | 5 | 153 | 16 | 1 | 3 | 133 |
+| last180d | 2026-04-01 | 10 | 275 | 18 | 1 | 4 | 267 |
+| 360d | 2025-10-03 | 15 | 499 | 20 | 8 | 8 | 489 |
+| last720d | 2024-10-08 | 29 | 928 | 23 | 17 | 16 | 930 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:31:22Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:41:08Z._
