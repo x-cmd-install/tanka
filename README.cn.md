@@ -26,13 +26,13 @@ x install tanka
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.2 / 10**
+总评分: **7.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install tanka
 
 ## 流行度
 
-- **Star**: 2,688 · **Fork**: 193 · **开放 issue**: 395 · **贡献者**: 183
+- **Star**: 2,688 · **Fork**: 193 · **开放 issue**: 395 · **贡献者**: 184
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 1567 · **开放 PR**: 23 · **已关闭 issue**: 355 · **开放 issue**: 40 · **提交数**: 1607
+- **发布数**: 77 · **已合并 PR**: 1567 · **开放 PR**: 24 · **已关闭 issue**: 355 · **开放 issue**: 40 · **提交数**: 1607
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 46 | 11 | 0 | 2 | 54 |
-| last60d | 2026-07-30 | 3 | 73 | 13 | 0 | 2 | 80 |
-| 90d | 2026-06-30 | 5 | 153 | 16 | 1 | 3 | 133 |
-| last180d | 2026-04-01 | 10 | 275 | 18 | 1 | 4 | 267 |
-| 360d | 2025-10-03 | 15 | 499 | 20 | 8 | 8 | 489 |
-| last720d | 2024-10-08 | 29 | 928 | 23 | 17 | 16 | 930 |
+| 30d | 2026-08-30 | 2 | 45 | 12 | 0 | 2 | 54 |
+| last60d | 2026-07-31 | 3 | 73 | 14 | 0 | 2 | 80 |
+| 90d | 2026-07-01 | 5 | 140 | 17 | 1 | 3 | 133 |
+| last180d | 2026-04-02 | 10 | 270 | 19 | 1 | 4 | 267 |
+| 360d | 2025-10-04 | 15 | 495 | 21 | 8 | 8 | 489 |
+| last720d | 2024-10-09 | 29 | 926 | 24 | 17 | 16 | 930 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ tanka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:41:08Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:53:56Z._

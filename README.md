@@ -26,13 +26,13 @@ Total: **33,025** lines of code across **275** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.2 / 10**
+Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,688 · **Forks**: 193 · **Open issues**: 395 · **Contributors**: 183
+- **Stars**: 2,688 · **Forks**: 193 · **Open issues**: 395 · **Contributors**: 184
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1567 · **Open PRs**: 23 · **Closed issues**: 355 · **Open issues**: 40 · **Commits**: 1607
+- **Releases**: 77 · **Merged PRs**: 1567 · **Open PRs**: 24 · **Closed issues**: 355 · **Open issues**: 40 · **Commits**: 1607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 46 | 11 | 0 | 2 | 54 |
-| last60d | 2026-07-30 | 3 | 73 | 13 | 0 | 2 | 80 |
-| 90d | 2026-06-30 | 5 | 153 | 16 | 1 | 3 | 133 |
-| last180d | 2026-04-01 | 10 | 275 | 18 | 1 | 4 | 267 |
-| 360d | 2025-10-03 | 15 | 499 | 20 | 8 | 8 | 489 |
-| last720d | 2024-10-08 | 29 | 928 | 23 | 17 | 16 | 930 |
+| 30d | 2026-08-30 | 2 | 45 | 12 | 0 | 2 | 54 |
+| last60d | 2026-07-31 | 3 | 73 | 14 | 0 | 2 | 80 |
+| 90d | 2026-07-01 | 5 | 140 | 17 | 1 | 3 | 133 |
+| last180d | 2026-04-02 | 10 | 270 | 19 | 1 | 4 | 267 |
+| 360d | 2025-10-04 | 15 | 495 | 21 | 8 | 8 | 489 |
+| last720d | 2024-10-09 | 29 | 926 | 24 | 17 | 16 | 930 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:41:08Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:53:55Z._
