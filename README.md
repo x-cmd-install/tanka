@@ -14,14 +14,14 @@ x install tanka
 
 ## Code insight
 
-Total: **33,090** lines of code across **276** files in the top 5 languages.
+Total: **33,128** lines of code across **279** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,073 | 4,057 | 5,772 | 148 |
+| Go | 28,102 | 4,063 | 5,778 | 148 |
 | Yaml | 3,577 | 1 | 988 | 4 |
-| Jsonnet | 697 | 20 | 27 | 96 |
-| Json | 248 | 0 | 0 | 24 |
+| Jsonnet | 705 | 20 | 28 | 98 |
+| Json | 249 | 0 | 0 | 25 |
 | TypeScript | 243 | 19 | 13 | 4 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,689 · **Forks**: 194 · **Open issues**: 395 · **Contributors**: 184
+- **Stars**: 2,689 · **Forks**: 194 · **Open issues**: 395 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1586 · **Open PRs**: 25 · **Closed issues**: 356 · **Open issues**: 39 · **Commits**: 1626
+- **Releases**: 79 · **Merged PRs**: 1588 · **Open PRs**: 23 · **Closed issues**: 357 · **Open issues**: 38 · **Commits**: 1628
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 4 | 60 | 15 | 0 | 2 | 69 |
-| last60d | 2026-08-10 | 5 | 89 | 16 | 0 | 2 | 99 |
-| 90d | 2026-07-11 | 6 | 118 | 16 | 1 | 2 | 130 |
-| last180d | 2026-04-12 | 11 | 267 | 20 | 2 | 3 | 270 |
-| 360d | 2025-10-14 | 17 | 495 | 22 | 9 | 7 | 493 |
-| last720d | 2024-10-19 | 30 | 939 | 25 | 17 | 15 | 942 |
+| 30d | 2026-09-10 | 4 | 62 | 13 | 1 | 1 | 71 |
+| last60d | 2026-08-11 | 5 | 91 | 14 | 1 | 1 | 101 |
+| 90d | 2026-07-12 | 6 | 120 | 14 | 2 | 1 | 132 |
+| last180d | 2026-04-13 | 11 | 265 | 18 | 3 | 2 | 272 |
+| 360d | 2025-10-15 | 17 | 497 | 20 | 10 | 6 | 495 |
+| last720d | 2024-10-20 | 30 | 941 | 23 | 18 | 14 | 944 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:15:20Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:04:24Z._
