@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,689 · **Forks**: 194 · **Open issues**: 395 · **Contributors**: 185
+- **Stars**: 2,689 · **Forks**: 195 · **Open issues**: 395 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1588 · **Open PRs**: 23 · **Closed issues**: 357 · **Open issues**: 38 · **Commits**: 1628
+- **Releases**: 79 · **Merged PRs**: 1588 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 38 · **Commits**: 1628
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 4 | 62 | 13 | 1 | 1 | 46 |
-| last60d | 2026-08-12 | 5 | 91 | 14 | 1 | 1 | 95 |
-| 90d | 2026-07-13 | 6 | 120 | 14 | 2 | 1 | 121 |
-| last180d | 2026-04-14 | 11 | 264 | 18 | 3 | 2 | 261 |
-| 360d | 2025-10-16 | 17 | 496 | 20 | 10 | 6 | 484 |
-| last720d | 2024-10-21 | 30 | 939 | 23 | 18 | 14 | 944 |
+| 30d | 2026-09-12 | 4 | 62 | 14 | 1 | 1 | 46 |
+| last60d | 2026-08-13 | 5 | 91 | 15 | 1 | 1 | 95 |
+| 90d | 2026-07-14 | 6 | 119 | 15 | 2 | 1 | 121 |
+| last180d | 2026-04-15 | 11 | 263 | 19 | 3 | 2 | 261 |
+| 360d | 2025-10-17 | 17 | 493 | 21 | 10 | 6 | 484 |
+| last720d | 2024-10-22 | 30 | 938 | 24 | 18 | 14 | 944 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:53:27Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:07:15Z._
