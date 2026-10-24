@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23069344,
       "digest": "sha256:3953d0d077d71254942aa4a3eaebaec91c86a1cf456cb9b69a579fbb8d4c3a1d",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-21T18:21:57Z",
       "updated_at": "2026-10-21T18:21:58Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.5/tk-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21734242,
       "digest": "sha256:b6af86fd64ba7b4623c76d12bb6decf3c6511f4fe0a5bcfafa403c4a21b14bf3",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-10-21T18:21:55Z",
       "updated_at": "2026-10-21T18:21:56Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.5/tk-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22028448,
       "digest": "sha256:80ae1e1972c5a16e21fc6b62801d1e06edad5dc7bc0635e44ecb2476839ac04a",
-      "download_count": 1984,
+      "download_count": 4481,
       "created_at": "2026-10-21T18:21:53Z",
       "updated_at": "2026-10-21T18:21:55Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.5/tk-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20119712,
       "digest": "sha256:60c68dd1305592a121ac25154e331a610e8de28f5bbd3eb3787b5b901d95d63c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-21T18:21:51Z",
       "updated_at": "2026-10-21T18:21:53Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.5/tk-linux-arm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20578464,
       "digest": "sha256:8c77012beaef59a5359dd132f79baae0d64f73114947b5b3f2a72bdea749d1e8",
-      "download_count": 58,
+      "download_count": 121,
       "created_at": "2026-10-21T18:21:49Z",
       "updated_at": "2026-10-21T18:21:51Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.5/tk-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22825984,
       "digest": "sha256:5bd88e67ab665b0227799103a3549978c437497d2b22b540bbe07fcc2ac103cd",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-10-21T18:21:47Z",
       "updated_at": "2026-10-21T18:21:49Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.39.5/tk-windows-amd64.exe"
