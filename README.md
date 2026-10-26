@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 36 | 9 | 0 | 0 | 46 |
-| last60d | 2026-08-26 | 6 | 86 | 12 | 1 | 1 | 99 |
-| 90d | 2026-07-27 | 6 | 113 | 12 | 1 | 1 | 127 |
-| last180d | 2026-04-28 | 12 | 258 | 16 | 3 | 2 | 264 |
-| 360d | 2025-10-30 | 18 | 500 | 18 | 10 | 6 | 499 |
-| last720d | 2024-11-04 | 31 | 946 | 21 | 18 | 14 | 954 |
+| 30d | 2026-09-26 | 3 | 33 | 9 | 0 | 0 | 39 |
+| last60d | 2026-08-27 | 6 | 83 | 12 | 1 | 1 | 93 |
+| 90d | 2026-07-28 | 6 | 113 | 12 | 1 | 1 | 119 |
+| last180d | 2026-04-29 | 12 | 258 | 16 | 3 | 2 | 260 |
+| 360d | 2025-10-31 | 18 | 500 | 18 | 10 | 6 | 499 |
+| last720d | 2024-11-05 | 31 | 946 | 21 | 18 | 14 | 949 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:55:42Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:52:12Z._
