@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: tanka
-  visiblename: tanka
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Flexible, reusable and concise configuration for Kubernetes using Jsonnet
 - repo: alpine_edge
   subrepo: testing
   srcname: tanka
@@ -57,9 +50,16 @@
 - repo: homebrew
   srcname: tanka
   visiblename: tanka
-  version: 0.39.5
+  version: 0.40.0
   origversion: null
   status: newest
+  summary: Flexible, reusable and concise configuration for Kubernetes using Jsonnet
+- repo: homebrew
+  srcname: tanka
+  visiblename: tanka
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Flexible, reusable and concise configuration for Kubernetes using Jsonnet
 - repo: macports
   srcname: sysutils/tanka
