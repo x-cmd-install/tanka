@@ -14,11 +14,11 @@ x install tanka
 
 ## 代码洞察
 
-合计: **33,326** 行代码（覆盖前 5 种语言、共 **279** 个文件）。
+合计: **33,335** 行代码（覆盖前 5 种语言、共 **279** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 28,295 | 4,119 | 5,816 | 148 |
+| Go | 28,304 | 4,121 | 5,817 | 148 |
 | Yaml | 3,577 | 1 | 988 | 4 |
 | Jsonnet | 705 | 20 | 28 | 98 |
 | Json | 249 | 0 | 0 | 25 |
@@ -26,13 +26,13 @@ x install tanka
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.5 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
 
 ## 源代码
 
@@ -42,39 +42,39 @@ x install tanka
 
 ## 发布
 
-- **最新版本**: `v0.39.5` (2026-10-21)
-- **最近提交**: 2026-10-23
+- **最新版本**: `v0.40.0` (2026-10-26)
+- **最近提交**: 2026-10-27
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 2,691 · **Fork**: 193 · **开放 issue**: 395 · **贡献者**: 185
+- **Star**: 2,691 · **Fork**: 193 · **开放 issue**: 395 · **贡献者**: 186
 
 ## 累计统计
 
-- **发布数**: 80 · **已合并 PR**: 1606 · **开放 PR**: 21 · **已关闭 issue**: 357 · **开放 issue**: 38 · **提交数**: 1646
+- **发布数**: 81 · **已合并 PR**: 1613 · **开放 PR**: 20 · **已关闭 issue**: 357 · **开放 issue**: 38 · **提交数**: 1653
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 33 | 9 | 0 | 0 | 39 |
-| last60d | 2026-08-27 | 6 | 83 | 12 | 1 | 1 | 93 |
-| 90d | 2026-07-28 | 6 | 113 | 12 | 1 | 1 | 119 |
-| last180d | 2026-04-29 | 12 | 258 | 16 | 3 | 2 | 260 |
-| 360d | 2025-10-31 | 18 | 500 | 18 | 10 | 6 | 499 |
-| last720d | 2024-11-05 | 31 | 946 | 21 | 18 | 14 | 949 |
+| 30d | 2026-09-27 | 4 | 37 | 9 | 0 | 0 | 46 |
+| last60d | 2026-08-28 | 6 | 89 | 12 | 1 | 1 | 100 |
+| 90d | 2026-07-29 | 7 | 118 | 12 | 1 | 1 | 126 |
+| last180d | 2026-04-30 | 13 | 265 | 15 | 3 | 2 | 267 |
+| 360d | 2025-11-01 | 19 | 507 | 17 | 10 | 6 | 506 |
+| last720d | 2024-11-06 | 32 | 953 | 20 | 18 | 14 | 956 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.39.5/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
-| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.39.5/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
-| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.39.5/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
-| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.39.5/tk-linux-arm) | 19.2 MiB | `native/linux/arm` |
-| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.39.5/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
-| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.39.5/tk-windows-amd64.exe) | 21.8 MiB | `native/win/x64` |
+| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.40.0/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
+| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.40.0/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
+| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.40.0/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
+| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.40.0/tk-linux-arm) | 19.2 MiB | `native/linux/arm` |
+| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.40.0/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
+| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.40.0/tk-windows-amd64.exe) | 21.8 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -83,7 +83,7 @@ x install tanka
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.40.0` | ✅ latest |
 | Nix unstable | `0.38.0` | ⚠️ outdated |
 | Alpine edge | `0.39.1` | ⚠️ outdated |
 
@@ -96,4 +96,4 @@ tanka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:52:12Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:22:16Z._
