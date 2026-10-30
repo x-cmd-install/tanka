@@ -50,7 +50,7 @@
 - repo: homebrew
   srcname: tanka
   visiblename: tanka
-  version: 0.40.0
+  version: 0.40.1
   origversion: null
   status: newest
   summary: Flexible, reusable and concise configuration for Kubernetes using Jsonnet
