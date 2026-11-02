@@ -4,7 +4,7 @@
   binname: tanka
   visiblename: tanka
   version: 0.39.1
-  origversion: 0.39.1-r0
+  origversion: 0.39.1-r1
   status: outdated
   summary: Flexible, reusable and concise configuration for Kubernetes
   maintainers:
