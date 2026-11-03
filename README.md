@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,692 · **Forks**: 194 · **Open issues**: 396 · **Contributors**: 185
+- **Stars**: 2,692 · **Forks**: 195 · **Open issues**: 397 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1620 · **Open PRs**: 19 · **Closed issues**: 357 · **Open issues**: 39 · **Commits**: 1660
+- **Releases**: 82 · **Merged PRs**: 1620 · **Open PRs**: 20 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1660
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 5 | 43 | 9 | 0 | 1 | 38 |
-| last60d | 2026-09-03 | 7 | 94 | 13 | 1 | 2 | 106 |
-| 90d | 2026-08-04 | 8 | 122 | 13 | 1 | 2 | 133 |
-| last180d | 2026-05-06 | 14 | 270 | 16 | 3 | 3 | 272 |
-| 360d | 2025-11-07 | 20 | 514 | 18 | 10 | 7 | 508 |
-| last720d | 2024-11-12 | 32 | 953 | 19 | 18 | 15 | 955 |
+| 30d | 2026-10-04 | 5 | 43 | 10 | 0 | 2 | 38 |
+| last60d | 2026-09-04 | 7 | 94 | 14 | 1 | 3 | 106 |
+| 90d | 2026-08-05 | 8 | 122 | 14 | 1 | 3 | 133 |
+| last180d | 2026-05-07 | 14 | 269 | 17 | 3 | 4 | 272 |
+| 360d | 2025-11-08 | 20 | 514 | 19 | 10 | 8 | 508 |
+| last720d | 2024-11-13 | 32 | 953 | 20 | 17 | 16 | 955 |
 
 ## Release assets
 
@@ -83,7 +83,7 @@ Reported by **17** distros on [repology.org](https://repology.org/project/tanka)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.40.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.38.0` | ⚠️ outdated |
 | Alpine edge | `0.39.1` | ⚠️ outdated |
 
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:15:21Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:55:49Z._
