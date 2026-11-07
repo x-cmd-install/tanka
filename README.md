@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,693 · **Forks**: 195 · **Open issues**: 397 · **Contributors**: 187
+- **Stars**: 2,692 · **Forks**: 195 · **Open issues**: 397 · **Contributors**: 187
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 34 | 11 | 0 | 2 | 39 |
-| last60d | 2026-09-07 | 7 | 95 | 14 | 1 | 3 | 107 |
-| 90d | 2026-08-08 | 8 | 123 | 14 | 1 | 3 | 134 |
-| last180d | 2026-05-10 | 14 | 268 | 17 | 3 | 4 | 273 |
-| 360d | 2025-11-11 | 19 | 512 | 19 | 10 | 8 | 509 |
-| last720d | 2024-11-16 | 32 | 951 | 20 | 17 | 16 | 953 |
+| 30d | 2026-10-08 | 4 | 29 | 11 | 0 | 2 | 39 |
+| last60d | 2026-09-08 | 7 | 95 | 14 | 1 | 3 | 107 |
+| 90d | 2026-08-09 | 8 | 123 | 14 | 1 | 3 | 134 |
+| last180d | 2026-05-11 | 14 | 268 | 17 | 3 | 4 | 273 |
+| 360d | 2025-11-12 | 19 | 510 | 19 | 10 | 8 | 509 |
+| last720d | 2024-11-17 | 32 | 951 | 20 | 17 | 16 | 953 |
 
 ## Release assets
 
@@ -83,7 +83,7 @@ Reported by **17** distros on [repology.org](https://repology.org/project/tanka)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.40.1` | ✅ latest |
 | Nix unstable | `0.38.0` | ⚠️ outdated |
 | Alpine edge | `0.39.1` | ⚠️ outdated |
 
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:53:18Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:07:22Z._
