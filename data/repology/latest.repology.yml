@@ -1,3 +1,58 @@
+- repo: nix_stable_25_11
+  srcname: tanka
+  visiblename: tanka
+  version: 0.36.1
+  origversion: null
+  status: outdated
+  summary: Flexible, reusable and concise configuration for Kubernetes
+  maintainers:
+    - michael@faille.io
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: tanka
+  binname: tanka
+  visiblename: tanka
+  version: 0.36.3
+  origversion: 0.36.3-2
+  status: outdated
+  summary: Flexible, reusable and concise configuration for Kubernetes
+  licenses:
+    - Apache
+- repo: nix_stable_24_05
+  srcname: tanka
+  visiblename: tanka
+  version: 0.26.0
+  origversion: null
+  status: outdated
+  summary: Flexible, reusable and concise configuration for Kubernetes
+  maintainers:
+    - michael@faille.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: tanka
+  visiblename: tanka
+  version: 0.28.2
+  origversion: null
+  status: outdated
+  summary: Flexible, reusable and concise configuration for Kubernetes
+  maintainers:
+    - michael@faille.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: tanka
+  visiblename: tanka
+  version: 0.32.0
+  origversion: null
+  status: outdated
+  summary: Flexible, reusable and concise configuration for Kubernetes
+  maintainers:
+    - michael@faille.io
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: tanka
@@ -50,7 +105,7 @@
 - repo: homebrew
   srcname: tanka
   visiblename: tanka
-  version: 0.40.1
+  version: 0.40.2
   origversion: null
   status: newest
   summary: Flexible, reusable and concise configuration for Kubernetes using Jsonnet
@@ -97,61 +152,6 @@
   summary: Flexible, reusable and concise configuration for Kubernetes
   licenses:
     - Apache
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: tanka
-  binname: tanka
-  visiblename: tanka
-  version: 0.36.3
-  origversion: 0.36.3-2
-  status: outdated
-  summary: Flexible, reusable and concise configuration for Kubernetes
-  licenses:
-    - Apache
-- repo: nix_stable_24_05
-  srcname: tanka
-  visiblename: tanka
-  version: 0.26.0
-  origversion: null
-  status: outdated
-  summary: Flexible, reusable and concise configuration for Kubernetes
-  maintainers:
-    - michael@faille.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: tanka
-  visiblename: tanka
-  version: 0.28.2
-  origversion: null
-  status: outdated
-  summary: Flexible, reusable and concise configuration for Kubernetes
-  maintainers:
-    - michael@faille.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: tanka
-  visiblename: tanka
-  version: 0.32.0
-  origversion: null
-  status: outdated
-  summary: Flexible, reusable and concise configuration for Kubernetes
-  maintainers:
-    - michael@faille.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: tanka
-  visiblename: tanka
-  version: 0.36.1
-  origversion: null
-  status: outdated
-  summary: Flexible, reusable and concise configuration for Kubernetes
-  maintainers:
-    - michael@faille.io
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: tanka
   visiblename: tanka
@@ -166,7 +166,7 @@
 - repo: nix_unstable
   srcname: tanka
   visiblename: tanka
-  version: 0.38.0
+  version: 0.39.4
   origversion: null
   status: outdated
   summary: Flexible, reusable and concise configuration for Kubernetes
