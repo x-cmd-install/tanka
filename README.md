@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.40.1` (2026-10-29)
-- **Last commit**: 2026-11-11
+- **Latest**: `v0.40.2` (2026-11-12)
+- **Last commit**: 2026-11-12
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,29 +52,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1622 · **Open PRs**: 21 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1662
+- **Releases**: 83 · **Merged PRs**: 1623 · **Open PRs**: 20 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 21 | 10 | 0 | 2 | 31 |
-| last60d | 2026-09-13 | 7 | 94 | 15 | 1 | 3 | 101 |
-| 90d | 2026-08-14 | 8 | 121 | 15 | 1 | 3 | 133 |
-| last180d | 2026-05-16 | 12 | 253 | 18 | 3 | 4 | 254 |
-| 360d | 2025-11-17 | 19 | 508 | 20 | 8 | 7 | 497 |
-| last720d | 2024-11-22 | 32 | 945 | 21 | 17 | 16 | 950 |
+| 30d | 2026-10-14 | 4 | 22 | 9 | 0 | 2 | 32 |
+| last60d | 2026-09-14 | 8 | 91 | 14 | 1 | 3 | 102 |
+| 90d | 2026-08-15 | 9 | 122 | 14 | 1 | 3 | 134 |
+| last180d | 2026-05-17 | 13 | 254 | 17 | 3 | 4 | 255 |
+| 360d | 2025-11-18 | 19 | 499 | 19 | 8 | 7 | 498 |
+| last720d | 2024-11-23 | 32 | 946 | 20 | 17 | 16 | 948 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
-| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
-| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
-| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-linux-arm) | 19.1 MiB | `native/linux/arm` |
-| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
-| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
+| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
+| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
+| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
+| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm) | 19.1 MiB | `native/linux/arm` |
+| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
+| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -83,8 +83,8 @@ Reported by **17** distros on [repology.org](https://repology.org/project/tanka)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.40.1` | ✅ latest |
-| Nix unstable | `0.38.0` | ⚠️ outdated |
+| Homebrew | `0.40.2` | ✅ latest |
+| Nix unstable | `0.39.4` | ⚠️ outdated |
 | Alpine edge | `0.39.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:27:43Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:56:02Z._

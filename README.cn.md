@@ -42,8 +42,8 @@ x install tanka
 
 ## 发布
 
-- **最新版本**: `v0.40.1` (2026-10-29)
-- **最近提交**: 2026-11-11
+- **最新版本**: `v0.40.2` (2026-11-12)
+- **最近提交**: 2026-11-12
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -52,29 +52,29 @@ x install tanka
 
 ## 累计统计
 
-- **发布数**: 82 · **已合并 PR**: 1622 · **开放 PR**: 21 · **已关闭 issue**: 357 · **开放 issue**: 40 · **提交数**: 1662
+- **发布数**: 83 · **已合并 PR**: 1623 · **开放 PR**: 20 · **已关闭 issue**: 357 · **开放 issue**: 40 · **提交数**: 1663
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 21 | 10 | 0 | 2 | 31 |
-| last60d | 2026-09-13 | 7 | 94 | 15 | 1 | 3 | 101 |
-| 90d | 2026-08-14 | 8 | 121 | 15 | 1 | 3 | 133 |
-| last180d | 2026-05-16 | 12 | 253 | 18 | 3 | 4 | 254 |
-| 360d | 2025-11-17 | 19 | 508 | 20 | 8 | 7 | 497 |
-| last720d | 2024-11-22 | 32 | 945 | 21 | 17 | 16 | 950 |
+| 30d | 2026-10-14 | 4 | 22 | 9 | 0 | 2 | 32 |
+| last60d | 2026-09-14 | 8 | 91 | 14 | 1 | 3 | 102 |
+| 90d | 2026-08-15 | 9 | 122 | 14 | 1 | 3 | 134 |
+| last180d | 2026-05-17 | 13 | 254 | 17 | 3 | 4 | 255 |
+| 360d | 2025-11-18 | 19 | 499 | 19 | 8 | 7 | 498 |
+| last720d | 2024-11-23 | 32 | 946 | 20 | 17 | 16 | 948 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
-| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
-| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
-| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-linux-arm) | 19.1 MiB | `native/linux/arm` |
-| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
-| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.40.1/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
+| [tk-darwin-amd64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-darwin-amd64) | 22.0 MiB | `native/darwin/x64` |
+| [tk-darwin-arm64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
+| [tk-linux-amd64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-amd64) | 21.0 MiB | `native/linux/x64` |
+| [tk-linux-arm](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm) | 19.1 MiB | `native/linux/arm` |
+| [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
+| [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -83,8 +83,8 @@ x install tanka
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.40.1` | ✅ latest |
-| Nix unstable | `0.38.0` | ⚠️ outdated |
+| Homebrew | `0.40.2` | ✅ latest |
+| Nix unstable | `0.39.4` | ⚠️ outdated |
 | Alpine edge | `0.39.1` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -96,4 +96,4 @@ tanka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T07:27:44Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T06:56:03Z._
