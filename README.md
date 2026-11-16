@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 22 | 12 | 0 | 2 | 24 |
-| last60d | 2026-09-16 | 7 | 86 | 17 | 1 | 3 | 66 |
-| 90d | 2026-08-17 | 9 | 122 | 17 | 1 | 3 | 124 |
-| last180d | 2026-05-19 | 13 | 254 | 20 | 3 | 4 | 255 |
-| 360d | 2025-11-20 | 19 | 490 | 22 | 8 | 7 | 478 |
-| last720d | 2024-11-25 | 32 | 938 | 23 | 17 | 16 | 948 |
+| 30d | 2026-10-17 | 4 | 22 | 12 | 0 | 2 | 24 |
+| last60d | 2026-09-17 | 7 | 74 | 16 | 0 | 3 | 66 |
+| 90d | 2026-08-18 | 9 | 120 | 17 | 1 | 3 | 124 |
+| last180d | 2026-05-20 | 13 | 254 | 20 | 3 | 4 | 255 |
+| 360d | 2025-11-21 | 19 | 486 | 22 | 8 | 7 | 478 |
+| last720d | 2024-11-26 | 32 | 936 | 23 | 17 | 16 | 941 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Reported by **17** distros on [repology.org](https://repology.org/project/tanka)
 |--------|---------|--------|
 | Arch | `0.36.3` | ⚠️ outdated |
 | Homebrew | `0.40.2` | ✅ latest |
-| Nix unstable | `0.39.4` | ⚠️ outdated |
+| Nix unstable | `0.40.1` | ⚠️ outdated |
 | Alpine edge | `0.39.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:39:53Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:16:03Z._
