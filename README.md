@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1623 · **Open PRs**: 23 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1663
+- **Releases**: 83 · **Merged PRs**: 1623 · **Open PRs**: 24 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 22 | 12 | 0 | 2 | 24 |
-| last60d | 2026-09-17 | 7 | 74 | 16 | 0 | 3 | 66 |
-| 90d | 2026-08-18 | 9 | 120 | 17 | 1 | 3 | 124 |
-| last180d | 2026-05-20 | 13 | 254 | 20 | 3 | 4 | 255 |
-| 360d | 2025-11-21 | 19 | 486 | 22 | 8 | 7 | 478 |
-| last720d | 2024-11-26 | 32 | 936 | 23 | 17 | 16 | 941 |
+| 30d | 2026-10-18 | 4 | 22 | 13 | 0 | 2 | 24 |
+| last60d | 2026-09-18 | 7 | 69 | 16 | 0 | 3 | 66 |
+| 90d | 2026-08-19 | 9 | 118 | 18 | 1 | 3 | 124 |
+| last180d | 2026-05-21 | 13 | 254 | 21 | 3 | 4 | 255 |
+| 360d | 2025-11-22 | 19 | 486 | 23 | 8 | 7 | 478 |
+| last720d | 2024-11-27 | 31 | 936 | 24 | 17 | 16 | 937 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:16:03Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:38:42Z._
