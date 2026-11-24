@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,693 · **Forks**: 195 · **Open issues**: 397 · **Contributors**: 187
+- **Stars**: 2,694 · **Forks**: 196 · **Open issues**: 397 · **Contributors**: 187
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1623 · **Open PRs**: 25 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1663
+- **Releases**: 83 · **Merged PRs**: 1623 · **Open PRs**: 32 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 10 | 14 | 0 | 2 | 3 |
-| last60d | 2026-09-24 | 6 | 55 | 17 | 0 | 2 | 56 |
-| 90d | 2026-08-25 | 9 | 105 | 19 | 1 | 3 | 110 |
-| last180d | 2026-05-27 | 13 | 247 | 22 | 3 | 4 | 255 |
-| 360d | 2025-11-28 | 18 | 479 | 24 | 8 | 7 | 473 |
-| last720d | 2024-12-03 | 30 | 926 | 25 | 16 | 15 | 931 |
+| 30d | 2026-10-25 | 3 | 10 | 21 | 0 | 2 | 3 |
+| last60d | 2026-09-25 | 6 | 52 | 24 | 0 | 2 | 56 |
+| 90d | 2026-08-26 | 9 | 102 | 26 | 1 | 3 | 110 |
+| last180d | 2026-05-28 | 13 | 247 | 29 | 3 | 4 | 255 |
+| 360d | 2025-11-29 | 18 | 479 | 31 | 8 | 7 | 473 |
+| last720d | 2024-12-04 | 30 | 926 | 32 | 16 | 15 | 930 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:46:11Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:24:33Z._

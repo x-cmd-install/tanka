@@ -32,7 +32,7 @@ x install tanka
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install tanka
 
 ## 流行度
 
-- **Star**: 2,693 · **Fork**: 195 · **开放 issue**: 397 · **贡献者**: 187
+- **Star**: 2,694 · **Fork**: 196 · **开放 issue**: 397 · **贡献者**: 187
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 1623 · **开放 PR**: 25 · **已关闭 issue**: 357 · **开放 issue**: 40 · **提交数**: 1663
+- **发布数**: 83 · **已合并 PR**: 1623 · **开放 PR**: 32 · **已关闭 issue**: 357 · **开放 issue**: 40 · **提交数**: 1663
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 10 | 14 | 0 | 2 | 3 |
-| last60d | 2026-09-24 | 6 | 55 | 17 | 0 | 2 | 56 |
-| 90d | 2026-08-25 | 9 | 105 | 19 | 1 | 3 | 110 |
-| last180d | 2026-05-27 | 13 | 247 | 22 | 3 | 4 | 255 |
-| 360d | 2025-11-28 | 18 | 479 | 24 | 8 | 7 | 473 |
-| last720d | 2024-12-03 | 30 | 926 | 25 | 16 | 15 | 931 |
+| 30d | 2026-10-25 | 3 | 10 | 21 | 0 | 2 | 3 |
+| last60d | 2026-09-25 | 6 | 52 | 24 | 0 | 2 | 56 |
+| 90d | 2026-08-26 | 9 | 102 | 26 | 1 | 3 | 110 |
+| last180d | 2026-05-28 | 13 | 247 | 29 | 3 | 4 | 255 |
+| 360d | 2025-11-29 | 18 | 479 | 31 | 8 | 7 | 473 |
+| last720d | 2024-12-04 | 30 | 926 | 32 | 16 | 15 | 930 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ tanka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:46:12Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:24:35Z._
