@@ -14,11 +14,11 @@ x install tanka
 
 ## Code insight
 
-Total: **33,368** lines of code across **279** files in the top 5 languages.
+Total: **18,717** lines of code across **266** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,304 | 4,121 | 5,817 | 148 |
+| Go | 13,653 | 1,333 | 2,456 | 135 |
 | Yaml | 3,610 | 1 | 996 | 4 |
 | Jsonnet | 705 | 20 | 28 | 98 |
 | Json | 249 | 0 | 0 | 25 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.40.2` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-25
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,694 · **Forks**: 196 · **Open issues**: 397 · **Contributors**: 187
+- **Stars**: 2,695 · **Forks**: 196 · **Open issues**: 397 · **Contributors**: 187
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1623 · **Open PRs**: 32 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1663
+- **Releases**: 83 · **Merged PRs**: 1625 · **Open PRs**: 31 · **Closed issues**: 357 · **Open issues**: 40 · **Commits**: 1665
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 10 | 21 | 0 | 2 | 3 |
-| last60d | 2026-09-25 | 6 | 52 | 24 | 0 | 2 | 56 |
-| 90d | 2026-08-26 | 9 | 102 | 26 | 1 | 3 | 110 |
-| last180d | 2026-05-28 | 13 | 247 | 29 | 3 | 4 | 255 |
-| 360d | 2025-11-29 | 18 | 479 | 31 | 8 | 7 | 473 |
-| last720d | 2024-12-04 | 30 | 926 | 32 | 16 | 15 | 930 |
+| 30d | 2026-10-26 | 3 | 12 | 20 | 0 | 2 | 5 |
+| last60d | 2026-09-26 | 6 | 51 | 23 | 0 | 2 | 58 |
+| 90d | 2026-08-27 | 9 | 101 | 25 | 1 | 3 | 112 |
+| last180d | 2026-05-29 | 13 | 248 | 28 | 3 | 4 | 257 |
+| 360d | 2025-11-30 | 18 | 479 | 30 | 8 | 7 | 475 |
+| last720d | 2024-12-05 | 30 | 928 | 31 | 16 | 15 | 931 |
 
 ## Release assets
 
@@ -76,17 +76,6 @@ Lowest-scoring checks:
 | [tk-linux-arm64](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm64) | 19.6 MiB | `native/linux/arm64` |
 | [tk-windows-amd64.exe](https://github.com/grafana/tanka/releases/download/v0.40.2/tk-windows-amd64.exe) | 21.7 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/tanka). **1** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.40.2` | ✅ latest |
-| Nix unstable | `0.40.1` | ⚠️ outdated |
-| Alpine edge | `0.39.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tanka` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +85,4 @@ Install metadata for tanka lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:24:33Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:43:24Z._
