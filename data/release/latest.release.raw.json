@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21682850,
       "digest": "sha256:b595cab95aba98167d26a5d14328504b48da5fa217906e794ea678acfbf3abaf",
-      "download_count": 82,
+      "download_count": 88,
       "created_at": "2026-11-12T15:06:06Z",
       "updated_at": "2026-11-12T15:06:07Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.40.2/tk-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22007968,
       "digest": "sha256:3bbd273335d96b681659b6668f44a5acd96b74c6535f789685a6b2eecb2d4d97",
-      "download_count": 15158,
+      "download_count": 16545,
       "created_at": "2026-11-12T15:06:04Z",
       "updated_at": "2026-11-12T15:06:05Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20054176,
       "digest": "sha256:00264562484313d850e7f6faa527ae2cc1953ca86a7d0d7a3b9476edcf886b6a",
-      "download_count": 36,
+      "download_count": 38,
       "created_at": "2026-11-12T15:06:02Z",
       "updated_at": "2026-11-12T15:06:04Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20578464,
       "digest": "sha256:6a128c964224ce278d408d7f3ced37960de84a4b77f04b2830fce1c00ffb197d",
-      "download_count": 348,
+      "download_count": 368,
       "created_at": "2026-11-12T15:06:00Z",
       "updated_at": "2026-11-12T15:06:02Z",
       "browser_download_url": "https://github.com/grafana/tanka/releases/download/v0.40.2/tk-linux-arm64"
